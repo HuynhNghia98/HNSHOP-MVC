@@ -12,8 +12,8 @@ using Suitshop.DataAccess.Data;
 namespace Suitshop.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231202071641_AddAllTalblesToDb")]
-    partial class AddAllTalblesToDb
+    [Migration("20231202080231_AddAllTablesToDb")]
+    partial class AddAllTablesToDb
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

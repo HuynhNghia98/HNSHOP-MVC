@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Suitshop.DataAccess.Migrations
 {
     /// <inheritdoc />
-    public partial class AddAllTalblesToDb : Migration
+    public partial class AddAllTablesToDb : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
