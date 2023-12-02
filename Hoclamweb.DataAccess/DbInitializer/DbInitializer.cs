@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Suitshop.DataAccess.Data;
+using Suitshop.DataAccess.Repository.IRepository;
 using Suitshop.Models;
 using Suitshop.Utility;
 using System;
