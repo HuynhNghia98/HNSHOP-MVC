@@ -6,9 +6,13 @@
 - Mail: nghiaht0412@gmail.com
 
 ## Technologies Used
-.NET, C#, ASP.NET CORE MVC, EF, MSSQL, Bootstrap, Stripe Payment
+- Front-End: ASP.NET CORE MVC, Bootstrap.
+- Back-End: ASP.NET CORE MVC, EF, Identity.
+- Database: MS SQL.
+- Payment Gateway API: Stripe.
 
 ## Project Descriptions
+- Authorization, Authentication
 - Admin: CRUD Operations. Order Management: Control the status and details
 of orders. User Management.
 - Customer: View products, add to the shopping cart, place orders, and make
