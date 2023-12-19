@@ -1,5 +1,10 @@
 # HNSHOP PROJECT [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Made By
+- HUYNH TRUNG NGHIA
+- Phone number: 0869070547
+- Mail: nghiaht0412@gmail.com
+
 ## Technologies Used
 .NET, C#, ASP.NET CORE MVC, EF, MSSQL, Bootstrap, Stripe Payment
 
