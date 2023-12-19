@@ -16,9 +16,9 @@ HNshop.bak
 ## Admin Account
  + email: 	admin@gmail.com
  + password: 	Admin123*
- + 
+   
 ## Payment:
-You must fill in Card information:
-4242 4242 4242 4242
-04 / 24
-424
+Card information:
+- 4242 4242 4242 4242
+- 04 / 24
+- 424
