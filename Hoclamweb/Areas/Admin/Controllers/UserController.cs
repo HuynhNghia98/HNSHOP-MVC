@@ -49,11 +49,12 @@ namespace Suitshop.Areas.Admin.Controllers
 			}
 			if (user.LockoutEnd != null && user.LockoutEnd > DateTime.Now)
 			{
-				//user đang bị khóa => mở khóa
+				//user dang bi khoa => mo khoa
 				user.LockoutEnd = DateTime.Now;
 			}
 			else
 			{
+				//khoa
 				user.LockoutEnd = DateTime.Now.AddDays(7);
 			}
 			_db.SaveChanges();
